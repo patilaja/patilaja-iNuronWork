@@ -34,5 +34,4 @@ Function to take the length of the sides of triangle from user should be defined
  Hint: ​If a list [ ab,cde,erty] is passed on to the python function output should come as [2,3,4] 
 Here 2,3 and 4 are the lengths of the words in the list. 
 
-
 2.2 Write a Python function which takes a character (i.e. a string of length 1) and returns True if it is a vowel, False otherwise. 
