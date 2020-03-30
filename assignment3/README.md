@@ -23,6 +23,6 @@ Task 2:
 1.  Write a function so that the columns of the output matrix are powers of the input vector.  
 The order of the powers is determined by the increasing boolean argument. Specifically, when increasing is False, the i-th output column is the input vector raised element-wise to the power of N - i - 1.  
  
-   HINT: Such a matrix with a geometric progression in each row is named for Alexandre Theophile Vandermonde. 
+    HINT: Such a matrix with a geometric progression in each row is named for Alexandre Theophile Vandermonde. 
   
-   NOTE: The solution shared through Github should contain the source code used and the screenshot of the output. 
+    NOTE: The solution shared through Github should contain the source code used and the screenshot of the output. 
