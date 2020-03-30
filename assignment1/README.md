@@ -1,6 +1,5 @@
 Task 1: 
  
- 
 1. Install Jupyter notebook and run the first program and share the screenshot of the output.  
 
 2. Write a program which will find all such numbers which are divisible by 7 but are not a multiple of 5, between 2000 and 3200 (both included). The numbers obtained should be printed in a comma-separated sequence on a single line. 
@@ -9,7 +8,7 @@ Task 1:
  
 4. Write a Python program to find the volume of a sphere with diameter 12 cm.  
  
-Formula: V=4/3 * π * r 3 
+	Formula: V=4/3 * π * r 3 
  
 Task 2:  
  
@@ -17,30 +16,30 @@ Task 2:
  
 2. Create the below pattern using nested for loop in Python. 
  
-*  
-* *  
-* * *  
-* * * *  
-* * * * *  
-* * * *  
-* * *  
-* *  
-* 
+	*  
+	* *  
+	* * *  
+	* * * *  
+	* * * * *  
+	* * * *  
+	* * *  
+	* *  
+	* 
  
 3. Write a Python program to reverse a word after accepting the input from the user. 
  
-Input word: AcadGild 
-Output: dilGdacA 
+	Input word: AcadGild 
+	Output: dilGdacA 
 
-4.  Write a Python Program to print the given string in the format specified in the ​sample output. 
- WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN, SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC and to secure to all its citizens 
+4.  Write a Python Program to print the given string in the format specified in the sample output. 
+ 	WE, THE PEOPLE OF INDIA, having solemnly resolved to constitute India into a SOVEREIGN, SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC 	and to secure to all its citizens 
  
-Sample Output: 
+		Sample Output: 
+
+		WE, THE PEOPLE OF INDIA,   
+			having solemnly resolved to constitute India into a SOVEREIGN, !  
+				SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC    
+				 and to secure to all its citizens 
+
  
-WE, THE PEOPLE OF INDIA,   
-	having solemnly resolved to constitute India into a SOVEREIGN, !  
-		SOCIALIST, SECULAR, DEMOCRATIC REPUBLIC    
-		 and to secure to all its citizens 
- 
- 
-NOTE:​ ​The​ ​solution​ ​shared​ ​through​ ​Github​ ​should​ ​contain​ ​the​ ​source code​ ​used​ ​ and​ ​the​ ​screenshot​ ​of​ ​the​ ​output.
+	NOTE: The solution shared through Github should contain the source code used and the screenshot of the output.
